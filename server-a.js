@@ -6,8 +6,8 @@ const PORT = process.env.PORT || 3000;
 
 const targets = [
   "https://converttopixel-esnq.onrender.com",
-  "https://59955d91-8de9-4508-9086-50d814b6421d-00-23am6j7qehoyy.kirk.replit.dev/",
-  "https://d1ff68b2-33ef-4cec-9dab-d3cf2bb4cba8-00-3379f3afxan4j.kirk.replit.dev/",
+  "https://server-pinger2.onrender.com",
+  "https://discordbot-abo4.onrender.com/",
 ];
 
 function startPinging() {
