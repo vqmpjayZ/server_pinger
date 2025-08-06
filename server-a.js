@@ -8,6 +8,7 @@ const targets = [
   "https://converttopixel-esnq.onrender.com",
   "https://server-pinger2.onrender.com",
   "https://discordbot-abo4.onrender.com/",
+  "https://vadrifts-key-system.onrender.com",
 ];
 
 function startPinging() {
